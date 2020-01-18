@@ -7,8 +7,8 @@ Solutions to Interview Practice Problems from Leetcode
 1\. Programming Language
 
 - C/C++ Cheatsheet
-- Python Cheatsheet
-- Java Cheatsheet
+- [Python Cheatsheet](review/py-cheatsheet.md)
+- [Java Cheatsheet](review/java-cheatsheet.md)
 
 2\. Big-O Complexity
 
