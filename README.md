@@ -17,3 +17,4 @@ Solutions to Interview Practice Problems from Leetcode
 ## Algorithms
 
 - [Two Sum](algorithms/two-sum.md)
+- [Trapping Rain Water](algorithms/trapping-rain-water.md)
