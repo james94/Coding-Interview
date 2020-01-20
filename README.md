@@ -18,3 +18,4 @@ Solutions to Interview Practice Problems from Leetcode
 
 - [Two Sum](algorithms/two-sum.md)
 - [Trapping Rain Water](algorithms/trapping-rain-water.md)
+- [LRU Cache](algorithms/lru-cache.md)
