@@ -16,6 +16,12 @@ Solutions to Interview Practice Problems from Leetcode
 
 ## Algorithms
 
+### Leetcode
+
 - [Two Sum](algorithms/two-sum.md)
 - [Trapping Rain Water](algorithms/trapping-rain-water.md)
 - [LRU Cache](algorithms/lru-cache.md)
+
+### YouTube: Coding Problems from People's Interview
+
+- [Do 2 Binary Trees have Same Inorder Traversal ](algorithms/in-order-traversal.md)
