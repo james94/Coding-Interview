@@ -18,10 +18,10 @@ Solutions to Interview Practice Problems from Leetcode
 
 ### Leetcode
 
-- [Two Sum](algorithms/two-sum.md)
-- [Trapping Rain Water](algorithms/trapping-rain-water.md)
-- [LRU Cache](algorithms/lru-cache.md)
+- [Two Sum](algorithms/leetcode/two-sum.md)
+- [Trapping Rain Water](algorithms/leetcode/trapping-rain-water.md)
+- [LRU Cache](algorithms/leetcode/lru-cache.md)
 
 ### YouTube: Coding Problems from People's Interview
 
-- [Do 2 Binary Trees have Same Inorder Traversal ](algorithms/in-order-traversal.md)
+- [Do 2 Binary Trees have Same Inorder Traversal ](algorithms/youtube/in-order-traversal.md)
