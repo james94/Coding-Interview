@@ -1,4 +1,4 @@
-# Same Inorder Traversal for 2 Binary Trees
+# Do 2 Binary Trees have Same Inorder Traversal 
 
 Given two binary trees, check if they have the same
 inorder traversal.
@@ -28,6 +28,19 @@ inorder traversal.
 ## Solution
 
 ### C++
+
+**Complexity Analysis**
+
+Since we are traversing every n node in tree1,
+we are also doing a traversal m in tree2
+ 
+**Time Complexity**: O(n + m)
+ 
+Since we are keeping a list of every n element
+in tree1, we also are doing an inorder traversal m
+on tree2
+ 
+**Space Complexity**: O(n + m)
 
 ### Approach 1: Copies Both Trees into 2 Lists
 
@@ -292,3 +305,11 @@ int main()
     return 0;
 }
 ~~~
+
+## Further Reading
+
+**YouTube:**
+In the link to the video, the solution was done in **Java**, but I
+did my solution in the code above in **C++**.
+
+- **Solving My Amazon Phone Interview:** https://www.youtube.com/watch?v=7lbwfkCfNQ4
