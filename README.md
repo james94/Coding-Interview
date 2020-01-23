@@ -27,6 +27,7 @@ Solutions to Interview Practice Problems from Leetcode
 - [LRU Cache](algorithms/leetcode/lru-cache.md)
 - [Interleaving String](algorithms/leetcode/interleaving-string.md)
 - [Add Strings](algorithms/leetcode/add-strings.md)
+- [Maximum Subarray](algorithms/leetcode/maximum-subarray.md)
 
 ### YouTube: Coding Problems from People's Interview
 
