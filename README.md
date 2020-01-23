@@ -26,6 +26,7 @@ Solutions to Interview Practice Problems from Leetcode
 - [Trapping Rain Water](algorithms/leetcode/trapping-rain-water.md)
 - [LRU Cache](algorithms/leetcode/lru-cache.md)
 - [Interleaving String](algorithms/leetcode/interleaving-string.md)
+- [Add Strings](algorithms/leetcode/add-strings.md)
 
 ### YouTube: Coding Problems from People's Interview
 
