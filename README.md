@@ -29,6 +29,27 @@ Solutions to Interview Practice Problems from Leetcode
 - [Add Strings](algorithms/leetcode/add-strings.md)
 - [Maximum Subarray](algorithms/leetcode/maximum-subarray.md)
 
+#### Problem Template Example
+
+# Reverse Linked List II
+
+Link References:
+
+**Leetcode Problem:**
+
+https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=study-plan-v2&envId=top-interview-150
+
+**ChatGPT solution:**
+
+**OBJECTIVE:**
+
+**CONSTRAINTS:**
+
+**FOLLOW UP:**
+
+
+## Solution
+
 ### YouTube: Coding Problems from People's Interview
 
 - [Do 2 Binary Trees have Same Inorder Traversal ](algorithms/youtube/in-order-traversal.md)
