@@ -6,10 +6,16 @@ For this medical imaging analysis problem, we'll use a binary tree represent the
 We'll implement a depth-first search (DFS) traversal of the binary tree to efficiently sum the intensities within the given range.
 The solution will use recursion for simplicity and readability.
 
+## Time Complexity
+
 **Time Complexity:** O(N) where N is the number of nodes in the binary tree. In the worst case, we might need to visit all nodes.
 
+## Space Complexity
+
 **Space Complexity:** O(H) where H is the height of the tree. This space is used by the recursive call stack. In the worst
-case (skewed tree), it could be I(N).
+case (skewed tree), it could be O(N).
+
+## C++ Implementation
 
 Refer to [cpp/main.cpp](./cpp/main.cpp) for C++ implementation.
 

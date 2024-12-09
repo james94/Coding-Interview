@@ -6,6 +6,8 @@ Perplexity AI updated wording of leetcode question tailoring for medical imaging
 
 ## Overview
 
+### Identify & Quantify Brain Region of Interest Intensity Levels
+
 You are developing a medical imaging software for analyzing brain MRI scans. The software uses a binary tree data structure to represent the hierarchical segmentation of brain regions. Each node in the tree represents a brain region, with the value indicating the region's average pixel intensity.
 
 Design and implement a C++20 function that, given the root node of this binary tree and two intensity thresholds (low and high), returns the sum of average intensities for all brain regions with intensities falling within the inclusive range [low, high]. This function will be used to identify and quantify regions of interest in the brain based on their intensity levels.
@@ -19,7 +21,7 @@ Your implementation should consider the following:
 5. Error handling and input validation
 6. Unit testing strategy
 
-Example:
+## Example:
 
 ~~~bash
 Input: root = [100,50,150,30,70,null,180], low = 70, high = 150
@@ -28,7 +30,7 @@ Explanation: Brain regions with intensities 70, 100, and 150 are in the range [7
 ~~~
 
 
-Constraints:
+## Constraints:
 
 - The number of nodes in the tree is in the range [1, 2 * 10^6].
 - 1 <= Node.intensity <= 1000

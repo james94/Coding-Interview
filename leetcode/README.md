@@ -16,7 +16,11 @@ I used LLM platform Perplexity AI to tailor Leetcode problems to medical imaging
 
 ### Medical Imaging Problems
 
-- data structure and algorithm problems tailored for [medical imaging](Coding-Interview/leetcode/llm_tailored_domain/medical_imaging/README.md) 
+- data structure and algorithm problems tailored for [medical imaging](./llm_tailored_domain/medical_imaging/README.md) 
+
+### Surgical Robotic Problems
+
+- data structure and algorithm problems tailored for [surgical robotics](./llm_tailored_domain/surgical_robotics/README.md) 
 
 ## Data Structures
 
