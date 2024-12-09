@@ -20,8 +20,8 @@ To avoid solving Leetcode toy problems for the sake of just preparing for techni
 
 - **[Medical Imaging](./leetcode/llm_tailored_domain/medical_imaging/README.md)**
 
-- **Self-Driving Cars**
+- **[Self-Driving Cars](./leetcode/llm_tailored_domain/self_driving_cars/README.md)**
 
-- **Unmanned Aircraft Systems**
+- **[Unmanned Aircraft Systems](./leetcode/llm_tailored_domain/unmanned_aircraft_system/README.md)**
 
 - **[Surgical Robotics](./leetcode/llm_tailored_domain/surgical_robotics/README.md)**

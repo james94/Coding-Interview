@@ -26,6 +26,10 @@ I used LLM platform Perplexity AI to tailor Leetcode problems to medical imaging
 
 - data structure and algorithm problems tailored for [self-driving cars](./llm_tailored_domain/self_driving_cars/README.md) 
 
+### Unmanned Aircraft System Problems
+
+- data structure and algorithm problems tailored for [Unmanned Aircraft Systems](./llm_tailored_domain/unmanned_aircraft_system/README.md) 
+
 
 ## Data Structures
 
