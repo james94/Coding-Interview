@@ -14,42 +14,14 @@ Solutions to Interview Practice Problems from Leetcode
 
 3\. Data Structures & Algorithms
 
-## Phone Interview Example
+## Leetcode Problems Tailored to Domains
 
-- [Amazon Interview - Interview with an Engineer from Amazon(2019)](https://www.youtube.com/watch?v=rGaJgYS456c)
+To avoid solving Leetcode toy problems for the sake of just preparing for technical interviews, we work with GPTs, such as Perplexity AI to re-generate Leetcode questions from Data Structures & Algorithms into problems tailored for particular domains, such as:
 
-## Algorithms
+- **[Medical Imaging](./leetcode/llm_tailored_domain/medical_imaging/README.md)**
 
-### Leetcode
+- **Self-Driving Cars**
 
-- [Two Sum](algorithms/leetcode/two-sum.md)
-- [Trapping Rain Water](algorithms/leetcode/trapping-rain-water.md)
-- [LRU Cache](algorithms/leetcode/lru-cache.md)
-- [Interleaving String](algorithms/leetcode/interleaving-string.md)
-- [Add Strings](algorithms/leetcode/add-strings.md)
-- [Maximum Subarray](algorithms/leetcode/maximum-subarray.md)
+- **Unmanned Aircraft Systems**
 
-#### Problem Template Example
-
-# Reverse Linked List II
-
-Link References:
-
-**Leetcode Problem:**
-
-https://leetcode.com/problems/reverse-linked-list-ii/description/?envType=study-plan-v2&envId=top-interview-150
-
-**ChatGPT solution:**
-
-**OBJECTIVE:**
-
-**CONSTRAINTS:**
-
-**FOLLOW UP:**
-
-
-## Solution
-
-### YouTube: Coding Problems from People's Interview
-
-- [Do 2 Binary Trees have Same Inorder Traversal ](algorithms/youtube/in-order-traversal.md)
+- **Surgical Robotics**
