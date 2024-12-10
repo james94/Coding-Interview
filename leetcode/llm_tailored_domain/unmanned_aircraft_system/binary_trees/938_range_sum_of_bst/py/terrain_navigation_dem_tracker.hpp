@@ -80,23 +80,3 @@ public:
         std::cout << "---------------------------------------------------\n\n";
     }
 };
-
-int main() {
-    // Example 1
-    std::vector<std::optional<int>> dem1 = {100,50,150,30,70,std::nullopt,180};
-    TreeNode* root1 = UASTerrainNavigation::buildDEMTree(dem1);
-    int low1 = 70, high1 = 150;
-    int result1 = UASTerrainNavigation::sumElevationRange(root1, low1, high1);
-    // std::cout << "Example 1 Result: " << result1 << std::endl;
-    UASTerrainNavigation::displayElevationSummary(dem1, low1, high1, result1);
-
-    // Example 2
-    std::vector<std::optional<int>> dem2 = {100,50,150,30,70,130,180,10,std::nullopt,60};
-    TreeNode* root2 = UASTerrainNavigation::buildDEMTree(dem2);
-    int low2 = 60, high2 = 100;
-    int result2 = UASTerrainNavigation::sumElevationRange(root2, low2, high2);
-    // std::cout << "Example 2 Result: " << result2 << std::endl;
-    UASTerrainNavigation::displayElevationSummary(dem2, low2, high2, result2);
-
-    return 0;
-}
