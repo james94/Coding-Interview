@@ -51,7 +51,7 @@ This C++ implementation addresses the requirements:
 
 3\. We used pybind11 to create a Python module called `brain_region_analysis` with a `TreeNode` class and an `analyze_brain_regions` function.
 
-## C++ Solution
+## Run C++ Solution
 
 ~~~bash
 cd cpp
@@ -66,7 +66,7 @@ make
 cd ..
 ~~~
 
-## PyBind Solution
+## Run PyBind Solution
 
 ~~~bash
 cd py

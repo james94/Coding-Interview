@@ -33,7 +33,39 @@ Refer to [cpp/main.cpp](./cpp/main.cpp) for C++ implementation.
 
 5\. We used a mutex (`treeMutex`) to ensure thread safety when accessing or modifying the tree.
 
-## Scaling for Larger Datasets & Optimizations
+## Run C++ Solution
+
+~~~bash
+cd cpp
+
+mkdir build
+
+cmake ..
+make
+
+./surgical_tracker_range_sum_bst
+
+cd ..
+~~~
+
+## Run PyBind Solution
+
+~~~bash
+cd py
+
+mkdir build
+
+cmake ..
+make
+
+python3 surgical_instrument_tracker.py
+
+cd ..
+~~~
+
+## Future Improvements
+
+### Scaling for Larger Datasets & Optimizations
 
 1\. The current implementation scales well for balanced BSTs (O(logN) average case for insertions and range queries)
 
@@ -42,7 +74,7 @@ O(logN) worst-case performance.
 
 3\. We could implement a caching mechanism for frequently queried ranges to improve performance.
 
-## Handling Real-Time Updates
+### Handling Real-Time Updates
 
 1\. The current implementation already supports real-time insertions thorugh the `insert` method.
 

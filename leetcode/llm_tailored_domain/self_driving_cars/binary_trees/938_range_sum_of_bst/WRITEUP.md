@@ -33,6 +33,36 @@ a hierarchy of decisions, with each node representing a specific action or sub-d
 4\. Thread-safety: The `SafetyScoreCalculator` class uses a mutex to ensure thread-safety when called concurrently
 by multiple decision-making modules. The `lock_guard` is used to automatically lock and unlock the mutex.
 
+## Run C++ Solution
+
+~~~bash
+cd cpp
+
+mkdir build
+
+cmake ..
+make
+
+./sdc_safety_range_sum_bst
+
+cd ..
+~~~
+
+## Run PyBind Solution
+
+~~~bash
+cd py
+
+mkdir build
+
+cmake ..
+make
+
+python3 sdc_safety_score_tracker.py
+
+cd ..
+~~~
+
 ## Resource
 
 Perplexity AI updated wording of leetcode question tailoring for self-driving cars, also includes the solution and other important links: https://www.perplexity.ai/search/you-are-a-software-infrastruct-XcBWj2OAS.GoOQ7mmh154g
