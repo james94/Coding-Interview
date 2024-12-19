@@ -18,6 +18,10 @@ Solutions to Interview Practice Problems from Leetcode
 
 Check out [Google Leetcode Questions](./leetcode/google/README.md)
 
+![](./images/fitbit_ai_google2.png)
+
+- **Figure: [Google Infuses Fitbit with New Personal GenAI Health Model](https://voicebot.ai/2024/03/20/google-infuses-fitbit-with-new-personal-health-generative-ai-model-based-on-gemini/)**
+
 ## Leetcode Problems Tailored to Domains
 
 To avoid solving Leetcode toy problems for the sake of just preparing for technical interviews, we work with GPTs, such as Perplexity AI to re-generate Leetcode questions from Data Structures & Algorithms into problems tailored for particular domains, such as:
