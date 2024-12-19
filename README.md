@@ -14,6 +14,10 @@ Solutions to Interview Practice Problems from Leetcode
 
 3\. Data Structures & Algorithms
 
+## Leetcode Problems Tailored for Company
+
+Check out [Google Leetcode Questions](./leetcode/google/README.md)
+
 ## Leetcode Problems Tailored to Domains
 
 To avoid solving Leetcode toy problems for the sake of just preparing for technical interviews, we work with GPTs, such as Perplexity AI to re-generate Leetcode questions from Data Structures & Algorithms into problems tailored for particular domains, such as:
