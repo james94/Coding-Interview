@@ -7,3 +7,7 @@
 ## Odd Even Jump
 
 - [C++ Solution: Odd Even Jump](./odd_even_jump/cpp/)
+
+## License Key Formatting
+
+- [C++ Solution: License Key Formatting](./license_key_formatting/cpp/)
