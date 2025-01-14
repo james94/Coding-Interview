@@ -10,3 +10,4 @@ ones that serve a better purpose of helping us relate them to the real world.
     - [Main C++ Solution](./binary_trees/938_range_sum_of_bst/cpp/main.cpp)
     - [PyBind Solution](./binary_trees/938_range_sum_of_bst/py/surgical_instrument_tracker.py)
     
+## Hash Tables
