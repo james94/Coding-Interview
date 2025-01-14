@@ -39,7 +39,7 @@ Refer to [cpp/main.cpp](./cpp/main.cpp) for C++ implementation.
 - The `rank_transform` method handles the core logic of ranking the voxel intensities.
 - The `main` function demonstrates the usage with the provided test cases.
 
-## C++ Python Bindings Methodology
+<!-- ## C++ Python Bindings -->
 
 ## Run C++ Solution
 
