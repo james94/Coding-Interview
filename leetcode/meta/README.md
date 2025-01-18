@@ -2,6 +2,8 @@
 
 We will be solving Meta Leetcode problems using C++ and Python.
 
+I am referencing [Meta's Interview Prep Plan for General Engineer of Videos](https://www.metacareers.com/profile/preparation_hub/?chooseView=Hello+World)
+
 I am referencing [Meta's Software Engineer Initial Interview Guide](https://scontent.fsac1-2.fna.fbcdn.net/v/t39.2365-6/461927423_1550072192278365_8776068472137718280_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=e280be&_nc_ohc=e0yAPYRdm9MQ7kNvgFuIAPO&_nc_zt=14&_nc_ht=scontent.fsac1-2.fna&_nc_gid=AEjNwnZ07mEd-3oEGIl5P9s&oh=00_AYCnfjHbAh4fArcXivMFFi3Et8e56LpVNfZsWVm53qCcaA&oe=67A05E7E) 
 
 I am referencing [Leetcode's Facebook Preparation Questions](https://leetcode.com/explore/interview/card/facebook/).
@@ -18,13 +20,19 @@ I will also be getting help from Perplexity AI on solving these problems.
 
 ## Arrays and Strings
 
-- Check out [Arrays and Strings in C++](./arrays_and_strings/cpp/README.md)
+- Check out [Arrays and Strings Problems](./arrays_and_strings/README.md)
 
 ## Linked Lists
 
+- Check out [Linked Lists Problems](./linked_lists/README.md)
+
 ## Trees and Graphs
 
+- Check out [Trees and Graphs Problems](./trees_and_graphs/README.md)
+
 ## Recursion
+
+- Check out [Recursion Problems](./recursion/README.md)
 
 ## Sorting and Searching
 
