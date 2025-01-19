@@ -49,8 +49,6 @@ Python Web Crawler Data Pipeline Shared Queue approach:
 - Time Complexity: O(n), where n is the number of data items
 - Space Complexity: O(n) for storing input data and results
 
-### Main Function NBA Players Performance Stats
-
 ## After Coding
 
 ### Multithreaded Data Pipeline Shared Queue Approach: Potential Improvements
