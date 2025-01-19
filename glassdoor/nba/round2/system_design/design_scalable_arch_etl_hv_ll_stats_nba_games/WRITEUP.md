@@ -13,14 +13,14 @@ NBA Software Engineer, Machine Learning position.
 - Provide PAIs for fan-facing products and automated officiating initiatives
 - Provide low-latency access to processed data
 
-**Non-Functional Requirements**:
+### **Non-Functional Requirements**
 
 - High throughput and low latency
 - Scalability to handle multiple games simultaneously
 - High availability, reliability and fault tolerance
 - Support for both cloud and on-premises deployments
 
-**Clients and Consumers**:
+### **Clients and Consumers**
 
 - NBA data analysts
 - Media partners
