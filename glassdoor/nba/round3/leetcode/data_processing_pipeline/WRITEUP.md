@@ -90,4 +90,4 @@ class with a sample set of NBA player data.
 
 ## References
 
-- Perplexity AI assistance: https://www.perplexity.ai/search/i-am-interviewing-for-software-KEMQRh8.Q6.iA7GPeIXiUw
+- Perplexity AI assistance: https://www.perplexity.ai/search/i-am-interviewing-for-software-PwhE.QkrT4W.eQG11t0NMw
