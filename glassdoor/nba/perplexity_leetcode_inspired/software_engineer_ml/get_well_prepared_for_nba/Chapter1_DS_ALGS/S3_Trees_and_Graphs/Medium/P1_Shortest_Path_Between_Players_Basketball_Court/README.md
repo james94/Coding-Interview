@@ -1,6 +1,6 @@
 # Shortest Path Between Players on Basketball Court
 
-## Problem Statement
+## Problem Statement (Trees)
 
 Develop an algorithm to find the shortest path between two players on a basketball court,
 considering obstacles such as other players or court equipment. The court is represented
