@@ -1,4 +1,4 @@
-# Design Hybrid Cloud/On-Premise Architecture for ML Real-Time Player Tracking (V1)
+# Design Hybrid Cloud/On-Premise Architecture for ML Real-Time Player Tracking
 
 We'll design a hybrid cloud/on-premises architecture for deploying machine learning
 models at scale for real-time player tracking using the Exponent System Design Interview Guide
