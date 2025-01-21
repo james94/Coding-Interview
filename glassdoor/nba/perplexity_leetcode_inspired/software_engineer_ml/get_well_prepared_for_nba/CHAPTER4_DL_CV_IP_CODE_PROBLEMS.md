@@ -6,9 +6,9 @@ We have 27 medium-level questions for "Software Engineer, Machine Learning NBA" 
 
 ### Neural Networks with PyTorch (3 questions)
 
-Implement a basic neural network using PyTorch to classify basketball shots as made or missed based on trajectory data. (Medium)
-Design a custom loss function in PyTorch for a neural network that predicts player positions on the court. (Medium)
-Create a PyTorch-based neural network to estimate the release angle of a basketball shot from image data. (Medium)
+1. Implement a basic neural network using PyTorch to classify basketball shots as made or missed based on trajectory data. (Medium)
+2. Design a custom loss function in PyTorch for a neural network that predicts player positions on the court. (Medium)
+3. Create a PyTorch-based neural network to estimate the release angle of a basketball shot from image data. (Medium)
 
 ### Convolutional Neural Networks Image Classification with PyTorch (3 questions)
 
