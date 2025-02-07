@@ -2,6 +2,8 @@ from collections import deque
 
 # Perplexity AI reference: https://www.perplexity.ai/search/can-you-solve-the-following-le-DuJjSC.9R5OMPlYJeVkC_g#6
 
+# Leetcode problem: https://leetcode.com/problems/find-consecutive-integers-from-a-data-stream/description/
+
 class DataStream:
     def __init__(self, value: int, k: int):
         self.value = value
