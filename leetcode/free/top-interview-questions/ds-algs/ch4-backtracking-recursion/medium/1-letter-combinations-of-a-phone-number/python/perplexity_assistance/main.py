@@ -1,3 +1,7 @@
+# Perplexity AI assistance: https://www.perplexity.ai/search/can-you-solve-the-following-le-LS99sptyRF6e6lFyb3x9rA#1
+
+# Leetcode Problem: https://leetcode.com/explore/interview/card/top-interview-questions-medium/109/backtracking/793/
+
 ####
 #   Clarifying Questions (Before Coding)
 ####
