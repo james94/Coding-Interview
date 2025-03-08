@@ -5,7 +5,7 @@ class Solution:
         row_dict = {}
         found_target = False
 
-        for i_idx, row in enumerate(matrix[0]):
+        for i_idx, row in enumerate(matrix):
             for j_idx, value in enumerate(row):
                 row_dict[value] = j_idx
 
