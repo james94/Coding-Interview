@@ -1,4 +1,6 @@
-# Coding Interview
+# Software Engineer Interview
+
+<!-- Repo used to be called: Coding Interview -->
 
 Solutions to Interview Practice Problems from Leetcode
 
@@ -13,6 +15,10 @@ Solutions to Interview Practice Problems from Leetcode
 2\. Big-O Complexity
 
 3\. Data Structures & Algorithms
+
+4\. System Design
+
+5\. Technologies Relevant to Job Posting
 
 ## Leetcode Problems Tailored for Company
 

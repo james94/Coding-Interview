@@ -6,7 +6,7 @@
 #
 # Data Structure & Algorithm Concepts:
 #
-# - Linked List Maniuplation: Rearranging nodes by adjusting pointers
+# - Linked List Manipulation: Rearranging nodes by adjusting pointers
 # - Two-Pointer Technique: Separating the list into odd and even groups using pointers
 #
 # Clarifying Questions:

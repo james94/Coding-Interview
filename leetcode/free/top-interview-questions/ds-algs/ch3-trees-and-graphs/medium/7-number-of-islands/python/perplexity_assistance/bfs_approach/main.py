@@ -77,7 +77,7 @@ class Solution:
             while queue:
                 row, col = queue.popleft()
 
-                # Explore all four directions
+                # Explore all four directions: up, down, left, right
                 for dr, dc in [(1, 0), (-1, 0), (0, 1), (0, -1)]:
                     nr, nc = row + dr, col + dc
 

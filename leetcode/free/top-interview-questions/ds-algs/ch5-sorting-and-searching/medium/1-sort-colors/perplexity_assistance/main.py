@@ -6,7 +6,7 @@
 #
 #   Potential Algorithms/Solutions:
 #
-#   Three-Pointer Technique: approach for this problem is to use three poniters to track the positions of the next red,
+#   Three-Pointer Technique: approach for this problem is to use three pointers to track the positions of the next red,
 #       white, and blue elements
 #
 #   Counting Sort: since there are only three distinct values, counting sort could be an efficient solution.
@@ -30,12 +30,12 @@
 
 # We'll use Three-Pointer Technique to sort colors
 def sortColors(nums):
-    # Initialize poniters for the next positions of 0 and 2
+    # Initialize pointers for the next positions of 0 and 2
     left, right = 0, len(nums) - 1
     i = 0
 
     while i <= right:
-        # if the current element is 0, swap it with the element at the left poniter
+        # if the current element is 0, swap it with the element at the left pointer
         if nums[i] == 0:
             nums[left], nums[i] = nums[i], nums[left]
             left += 1

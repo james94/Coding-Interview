@@ -56,7 +56,7 @@
 ####
 #
 #   1. Iterative Solution: instead of using recursion, implement an iterative solution using
-#       a queue or list to sotre intermediate combinations
+#       a queue or list to store intermediate combinations
 #
 #   2. Early Exit Conditions: Check for invalid (ex: digits outside the range 2-9) and handle them appropriately
 #

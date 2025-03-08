@@ -4,7 +4,7 @@
 #   Data Structures & Algorithm Concepts
 ####
 #
-#   Sorting: the problem can be approached by sorting the input array array, which allows for efficient searching of triplets
+#   Sorting: the problem can be approached by sorting the input array, which allows for efficient searching of triplets
 #
 #   Two-Pointers Techniques: useful for finding pairs within a sorted array that sum up to a target value
 #

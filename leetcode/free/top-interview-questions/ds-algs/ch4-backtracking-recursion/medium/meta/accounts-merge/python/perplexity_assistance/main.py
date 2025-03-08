@@ -30,7 +30,7 @@ from collections import defaultdict
 #
 #   Step 1: Initialize Union-Find Structure
 #       - Create a parent array where each account is initially its own parent
-#       - Use a hash amp to store the mapping of emails to account indices
+#       - Use a hash map to store the mapping of emails to account indices
 #
 #   Step 2: Iterate Through Accounts and Emails
 #       - For each email in an account, check if it exists in the hash map.
