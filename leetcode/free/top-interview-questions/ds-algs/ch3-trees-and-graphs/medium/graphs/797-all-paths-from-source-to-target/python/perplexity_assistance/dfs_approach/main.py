@@ -32,13 +32,15 @@ from typing import List
 #
 # Potential Solutions:
 #
-#  DFS with Backtracking: Use recursion to explore all paths while maintaining the current path state.
-#
+#  1. Depth First Search (DFS) with backtracking
+#  2. Breadth-First Search (BFS) with path tracking
+#  3. Dynamic Programming approach
+#  4. A* Search algorithm (though not typically used for all-paths problems)
 ##
 # Explanation of DFS Approach:
 ##
 #
-# - Depth First Search (DFS): Explore all paths from the source node (0) to the target node (n-1)
+# - DFS: Explore all paths from the source node (0) to the target node (n-1)
 #
 # - Backtracking: Track the current path and backtrack after exploring all neighbors to avoid
 #   revisiting nodes.
