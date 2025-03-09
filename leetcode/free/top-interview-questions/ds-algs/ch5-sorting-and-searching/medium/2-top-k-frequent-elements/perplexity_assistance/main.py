@@ -38,7 +38,7 @@ from collections import Counter
 #
 
 
-# We'll use Hash Map and Heap as it efficiently meets the time complexity requirement
+# We'll use Hash Map Counter and Heap as it efficiently meets the time complexity requirement
 def topKFrequent(nums, k):
     # Count the frequency of each element
     count = Counter(nums)

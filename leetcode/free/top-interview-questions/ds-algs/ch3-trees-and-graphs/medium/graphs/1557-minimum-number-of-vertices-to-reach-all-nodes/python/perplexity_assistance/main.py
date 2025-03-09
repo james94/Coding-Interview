@@ -51,7 +51,7 @@
 #
 # Potential Improvements:
 #
-#   - Memory Optimization: If memory is a concern, we could use a bit vector instead of sets to omark nodes with incoming edges.
+#   - Memory Optimization: If memory is a concern, we could use a bit vector instead of sets to mark nodes with incoming edges.
 #   - Early Termination: If we find that the solution set size is becoming larger than half of n, we could switch to finding
 #       nodes with incoming edges instead.
 #

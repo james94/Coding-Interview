@@ -51,14 +51,15 @@
 # After Coding
 ##
 #
-# Potential Improvements:
-#
 #   - Time Complexity: O(n), as we traverse the list once.
 #   - Space Complexity: O(1), using only a few pointers.
 #   - Edge Cases:
 #       - Single-node list: Returns the node as-is
 #       - Two-node list: -> Output
 #
+# Potential Improvements:
+#
+
 
 class ListNode:
     def __init__(self, val=0, next=None):

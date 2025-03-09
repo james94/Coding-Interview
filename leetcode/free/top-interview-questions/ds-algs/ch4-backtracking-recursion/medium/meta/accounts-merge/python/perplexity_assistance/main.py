@@ -25,7 +25,7 @@ from collections import defaultdict
 #   2. Hash Map: Useful for mapping emails to account indices to efficiently identify shared emails.
 #
 ####
-#   Solution Explanation
+#   Solution Explanation (Union-Find Algorithm, Hash Map)
 ####
 #
 #   Step 1: Initialize Union-Find Structure

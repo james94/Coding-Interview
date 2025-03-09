@@ -1,11 +1,5 @@
 from typing import List
 
-class TreeNode:
-    def __init__(self, val=0, left=None, right=None):
-        self.val = val
-        self.left = left
-        self.right = right
-
 # Perplexity Reference: https://www.perplexity.ai/search/can-you-solve-the-following-le-DuJjSC.9R5OMPlYJeVkC_g#3
 
 # Data Structures & Algorithm Concepts
@@ -33,6 +27,13 @@ class TreeNode:
 # the height of the tree (worst case O(n) for skewed trees). The iterative solution also
 # has a space complexity of O(h) due to stack.
 #
+class TreeNode:
+    def __init__(self, val=0, left=None, right=None):
+        self.val = val
+        self.left = left
+        self.right = right
+
+
 class Solution:
     def inorderTraversalRecursive(self, root: TreeNode) -> List[int]:
         result = []

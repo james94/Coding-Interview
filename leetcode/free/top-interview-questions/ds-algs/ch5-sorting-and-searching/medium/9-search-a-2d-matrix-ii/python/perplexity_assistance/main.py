@@ -21,7 +21,7 @@
 # Potential Solutions:
 #
 # 1. Stepwise Search (Optimal):
-#   - Start at the topp-right corner
+#   - Start at the top-right corner
 #   - Move left if the current value is greater than the target
 #   - Move down if the current value is smaller than the target
 #

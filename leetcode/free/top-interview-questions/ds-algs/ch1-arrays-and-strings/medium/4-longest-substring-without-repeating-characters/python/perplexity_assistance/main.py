@@ -56,7 +56,7 @@
 ##
 #
 # 1. Array Instead of Hash Map:
-#   - Use a fixed size array foro ASCII characters (size 128 or 256) for faster lookups
+#   - Use a fixed size array for ASCII characters (size 128 or 256) for faster lookups
 #
 # 2. Early Termination: 
 #   - Exit early if the remaining characters cannot exceed the current max_length
